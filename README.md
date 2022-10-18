@@ -6,3 +6,7 @@
 ➜ Utilizing usability principles, Figma was applied to design the user interface and user experience (UI / UX).<br />
 
 # Open the QR code and take a look at: https://expo.dev/@patelsanketr98/react-native-nft-app
+
+#Demo
+
+![](https://github.com/sanketpatel98/react-native-nft-app/blob/main/NFTAppReactNative.gif)
